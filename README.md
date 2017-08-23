@@ -5,6 +5,6 @@ We make our documentation accessible using [Read the Docs](https://readthedocs.o
 
 For news and announcements, see our [Blog](https://www.gawati.org "Blog").
 
-Thanks go to our sponsor:
+Thanks go to our so far only sponsor:
 
   - [African Innovation Foundation](http://africaninnovation.org "African Innovation Foundation Website")
